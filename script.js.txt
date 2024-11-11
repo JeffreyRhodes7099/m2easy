@@ -1,0 +1,6 @@
+// script.js
+
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Welcome to Handyman Services in Des Plaines!");
+    // Add any JavaScript functionality here if needed
+});
