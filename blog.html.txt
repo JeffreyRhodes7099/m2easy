@@ -1,0 +1,33 @@
+<!-- blog.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Handyman Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Our Blog</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="blog.html">Blog</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Latest Blog Posts</h2>
+        <ul>
+            <li><a href="posts/post1.html">5 Essential Tips for Home Maintenance</a></li>
+            <li><a href="posts/post2.html">How to Fix Common Plumbing Issues</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Handyman Services in Des Plaines. All rights reserved.</p>
+    </footer>
+</body>
+</html>
